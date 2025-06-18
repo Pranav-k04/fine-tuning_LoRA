@@ -44,6 +44,9 @@ ignore this step
 python stack_scraper.py
 python clean_to_alpaca.py
 ```
+find the drive link to download : 
+test.json  : https://drive.google.com/file/d/1Wi4Hqbde9W9Escb97oqX-WPpvOEJuFUJ/view?usp=sharing
+train.json : https://drive.google.com/file/d/1cSysK1XGPoe7vNNcNSjqKE3rpJyi7M6O/view?usp=sharing  
 ### 2 fine-tune-tinyLlama
 
 run the ```tinyLlama.ipynb ``` to create download adapter files and model from hugging face 
