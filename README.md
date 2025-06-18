@@ -46,9 +46,11 @@ python clean_to_alpaca.py
 ```
 ### 2 fine-tune-tinyLlama
 
-run the tinyLlama.ipynb to create download adapter files and model from hugging face 
+run the ```tinyLlama.ipynb ``` to create download adapter files and model from hugging face 
 also train the model on the data and save checkpoint.
-PS if not able to downlaod the model and re-train it find my pretrained saved model here : 
+PS if not able to downlaod the model and re-train it find my pretrained saved model here : https://drive.google.com/drive/folders/1Rs5UNvi0pOH-xHvQL1G7s0XFIVJe5Ikf 
+
+you are ready to Start using it from CLI 
 ### 3 Run Agent.py 
 Use Cli to load and querry with tinyLlama 
 example 
