@@ -12,7 +12,7 @@ these are the Evaluation metrics after fine-tuning the model (find these results
 | 3 | Why use superflous dash (-) to pass... | The reason is that the tar command is a ... | The reason is that the tar command is a ... | 2 |
 | 4 | Why is less being run unnecessarily... | ... | ... | 0 |
 | 5 | How to keep track of changes in /et... | ... | ... | 0 |
-| 6 | How do I recursively delete all `.t... | ``` #!/bin/bash  # Recursively delete al... | ``` #!/bin/bash  # Recursively delete al... |2? |
+| 6 | How do I recursively delete all `.t... | ``` #!/bin/bash  # Recursively delete al... | ``` #!/bin/bash  # Recursively delete al... |2 |
 | 7 | What happens if I run `rm -rf /` wi... | ... | ... | 0 |
 
 
