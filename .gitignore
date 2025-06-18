@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter runtime logs
+*.log
+*.out
+
+
+# VSCode metadata (optional)
+.vscode/
+
+merged-tinyllama
